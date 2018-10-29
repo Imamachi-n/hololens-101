@@ -1,6 +1,9 @@
 # 概要
 Hololens Academyで紹介されている内容について、自分自身が理解した内容などを書いていきます。
 
+# Github for Unity
+[Github for Unity を導入してみる](http://tech.guitarrapc.com/entry/2017/07/14/031046#Github-for-Unity-%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E3%81%BF%E3%82%8B)
+
 # トラブルシューティング
 ## WiFi経由でVisual StudioからHololensへアプリをデプロイする
 HololensのデバイスポータルがONになっていることを確認し、Hololens側でPINコードを表示させておく。  
